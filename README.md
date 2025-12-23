@@ -80,12 +80,4 @@ The results are intended to support data-driven analysis and academic study of a
 
 ---
 
-## Notes
-
-* Aircraft model frequency does not reflect fleet size or total flight hours
-* Incident reporting varies by region and time period
-* Conclusions are limited to the available data and selected features
-
----
-
 ✈️ *Machine learning analysis of historical aircraft incident data*
